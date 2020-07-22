@@ -1,8 +1,16 @@
+.display-4 .lead {
+
+	opacity: 1;
+
+}
+
 .jumbotron {
 
 	background-image: url('jumbo.jpg');
 	background-size: cover;
 	background-position: center center;
-	color: white;
+	color: black;
+	opacity: 0.5;
 
 }
+
