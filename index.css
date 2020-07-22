@@ -2,12 +2,7 @@
 
 	background-image: url('jumbo.jpg');
 	background-size: cover;
-	opacity: 0.5;
-
-}
-
-.jumboelements {
-
-	opacity: 1;
+	background-position: center center;
+	color: white;
 
 }
