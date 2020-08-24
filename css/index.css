@@ -1,11 +1,9 @@
 .jumbotron {
-
-	background-image: url('jumbo.png');
+	background-image: url('../img/jumbo.png');
 	background-size: cover;
 	background-position: center center;
 	color: black;
 	text-align: center;
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-
 }
 
