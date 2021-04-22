@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="The Postparisan · Join us in the fight for progress over dogma." />
+  <meta name="url" content="https://thepostpartisan.github.io/">
+  <meta name="theme-color" content="#a3a3a3">
+  <title>The Postpartisan</title>
+  <link rel="shortcut icon" href="../../img/logo.ico" type="image/x-icon">
+  <link rel="icon" href="../../img/logo.ico" type="image/x-icon">
+  <link href="https://fonts.googleapis.com/css?family=Muli:300,400,700|Playfair+Display:400,700,900" rel="stylesheet">
+  <link rel="stylesheet" href="../../fonts/icomoon/style.css">
+  <link rel="stylesheet" href="../../css/bootstrap.min.css">
+  <link rel="stylesheet" href="../../css/magnific-popup.css">
+  <link rel="stylesheet" href="../../css/jquery-ui.css">
+  <link rel="stylesheet" href="../../css/owl.carousel.min.css">
+  <link rel="stylesheet" href="../../css/owl.theme.default.min.css">
+  <link rel="stylesheet" href="../../css/bootstrap-datepicker.css">
+  <link rel="stylesheet" href="../../fonts/flaticon/font/flaticon.css">
+  <link rel="stylesheet" href="../../css/aos.css">
+  <link rel="stylesheet" href="../../css/style.css">
+</head>
+
+
+<body>
+  <div class="site-wrap">
+    <div class="site-mobile-menu">
+      <div class="site-mobile-menu-header">
+        <div class="site-mobile-menu-close mt-3">
+          <span class="icon-close2 js-menu-toggle"></span>
+        </div>
+      </div>
+      <div class="site-mobile-menu-body"></div>
+    </div>
+    <header class="site-navbar" role="banner">
+      <div class="container-fluid">
+        <div class="row align-items-center">
+          <div class="col-12 search-form-wrap js-search-form">
+            <form method="get" action="#">
+              <input type="text" id="s" class="form-control" placeholder="Search...">
+              <button class="search-btn" type="submit"><span class="icon-search"></span></button>
+            </form>
+          </div>
+          <div class="col-4 site-logo">
+            <a href="../../index.html" class="text-black h2 mb-0">The Postpartisan</a>
+          </div>
+
+          <div class="col-8 text-right">
+            <nav class="site-navigation" role="navigation">
+              <ul class="site-menu js-clone-nav mr-auto d-none d-lg-block mb-0">
+                <li><a href="../../index.html">Home</a></li>
+                <li><a href="../../about.html">About</a></li>
+                <li><a href="../../contact.html">Contact</a></li>
+              </ul>
+            </nav>
+            <a href="#" class="site-menu-toggle js-menu-toggle text-black d-inline-block d-lg-none"><span
+                class="icon-menu h3"></span></a>
+          </div>
+        </div>
+      </div>
+    </header>
+
+
+        <div class="site-cover site-cover-sm same-height overlay single-page"
+            style="background-image: url('../../img/issues/three/pure/2.png');">
+            <div class="container">
+                <div class="row same-height justify-content-center">
+                    <div class="col-md-12 col-lg-10">
+                        <div class="post-entry text-center">
+                            <h1 class="mb-4"><a href="#">American Rioting Comes to the Capitol</a></h1>
+                            <span class="post-category text-white bg-warning mb-3">Issue Three</span>
+                            <div class="post-meta align-items-center text-center">
+                                <figure class="author-figure mb-0 mr-3 d-inline-block"><img
+                                        src="../../img/authors/Shri.jpg" alt="Image" class="img-fluid"></figure>
+                                <span class="d-inline-block mt-1">By Shri Thakur</span>
+                                <span>&nbsp;-&nbsp; March 11, 2021</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <section class="site-section py-lg">
+            <div class="container">
+                <div class="row blog-entries element-animate">
+                    <div class="col-md-12 col-lg-8 main-content">
+                        <div class="post-content-body">
+
+                            <p>On January 6th, 2021, supporters of former President Donald Trump stormed the United States Capitol building in Washington D.C in an act of frustration to supposedly demonstrate grievance with the electoral process that elected Joe Biden as the 46th President of the United States. While such a riot in the heartland of American democracy surely created striking images and made for great media spectacle, for those who had followed the events of the summer, it simply represented a continuation of the increasingly common trend of turning to violence as a legitimate means of political recourse. 
+
+                            </p>
+
+                            <p>The liberal argument for blaming President Trump and Republican objectors for the Capitol riot rests on the premise that they lied to their supporters by challenging the legitimacy of the election, and encouraged these supporters to express their objections violently. This argument is flawed for several reasons; the reality is that rather than a unique occurrence to the issue of the 2020 election, the Capitol riot was simply an inevitable product of the political climate that has been fermented by the events of the last year and beyond. 
+
+                            </p>
+
+                            <p>First, the impeachment managers argued that challenging the results of the election is baseless and without evidence, and that any Republican who did so had “lied” to his or her supporters. This in itself is untrue and disregards history as well as any nuance in Constitutional law. According to the Heritage Foundation, a certain level of voter fraud exists in every election due to noncitizen ballots, underage votes, etc.--the question is always how much and how impactful it was to the overall result. With the introduction of mass mail-in voting in this election, which has been shown (by the New York Times and others) to be more susceptible to voting irregularities, it is not at a “lie” to suspect this election was less secure than the last one, and, as Republican senators did, request to set up a committee to investigate allegations of voter fraud for the 2020 election. To pretend the election was completely clean and fair and that anyone claiming otherwise is a liar is not fact; it is a spin. 
+
+                            </p>
+
+                            <p>In addition, there is a strong constitutional argument that last-minute changes in rules for voting in several swing states (Wisconsin, Pennsylvania, etc) made the election unlawful. These included added drop-boxes, extended mail-in voting deadlines, and rules regarding signatures that were not approved by state legislatures, and are subsequently in violation of the Electors Clause of the United States Constitution, which states that the power to determine the means by which electors are chosen are solely determined by the state legislature. The Supreme Court case Texas v. Pennsylvania outlined this argument well, but was dismissed by the court due to a lack of standing (right to sue), rather than merit. Many Republican members of Congress, such as Rep. Madison Cawthorn (R-NC), based their objections on this arguable violation of the Constitution by election officials in several hotly contested states. 
+
+                            </p>
+
+                            <p>It is also worth noting that objecting to the electoral college has rather commonly been used as a form of political recourse. In fact, the very man leading the charge for President Trump’s impeachment, Rep. Jamie Raskin (D-MD), attempted to contest the vote count of Florida’s electoral votes in 2016. In 2004, alleging the potential for voter fraud, Democrats objected to George W. Bush’s win over John Kerry in Ohio, which if overturned, would have seen Kerry win the election. The idea that challenging the legitimacy of the vote is somehow tantamount to the incitation of violence is a baseless claim that defies history and ignores precedent. 
+
+                            </p>
+
+                            <p>Next, the argument that Trump himself incited the riot  ignores the fact that he and other Republicans specifically indicated that the proper recourse for concerns over election integrity was electoral, not violent. During his speech on the morning of January 6th, Trump asked supporters to “patriotically and peacefully” march towards the Capitol and told them to push for stronger election laws and primary Republicans he saw unfit to serve, all things that demonstrated that the appropriate course of action in the President’s eyes was entirely nonviolent. 
+
+                            </p>
+
+                            <p>Furthermore, In the Supreme Court decision Scheck v. United States, Justice Oliver W. Holmes observed “The question in every [incitation of violence case] is whether the words used are used in such circumstances and are of such a nature as to create a clear and present danger that they will bring about the substantive evils that Congress has a right to prevent.” Essentially, at least in a criminal trial, the defendant (in this case, Trump) would need to deliberately encourage a situation that poses an imminent threat to the public order. That simply did not happen on January 6th and it is the reason that Biden’s Department of Justice refuses to litigate a criminal case against the former President separate from his impeachment trial. Acting on the premise that telling a malicious lie to one’s supporters (which is still debatable at best) is somehow pushing them to commit political violence would establish a precedent that would demand the impeachment of dozens of elected officials on the Democratic side. Should hate crimes against police officers warrant the impeachment of those who baselessly accuse the policing system of deliberately hunting down African-Americans?  Should attacks on immigration enforcement, such as the terrorist attack at an ICE facility in Washington last year, compel the expulsion of those who falsely claim migrant detention centers on the border are akin to “concentration camps?” Of course not. 
+                            </p>
+
+                            <p>Indeed, while Democrats have tried to solely place the blame for the riot at the hands of President Trump and his supporters, what made the Capitol riot so heinous in its nature was not its motivations but rather the fact that it, was, well, a riot. A peaceful protest over an unjustifiable cause may be frowned upon, but is never taken as uniquely bad or destructive. Likewise, a violent riot over a legitimate cause cannot ever be justified if it targets innocent people. 
+
+                            </p>
+
+                            <p>As Democrats attempt to impeach and convict former President Trump for supposedly “inciting an insurrection” (A charge which the DOJ themselves refuse to file against Trump), many of them spent the entirety of last year defending, excusing, and justifying BLM riots against ostensible “systemic racism.” Alexandria Ocasio-Cortez, a progressive stalwart who was one of the first to call for the impeachment of the former President, responded to large scale riots by BLM activists by saying that “the point of protesting is to make people uncomfortable.” Rep. Cori Bush, who sponsored a resolution expelling every one of her Republican colleagues that objected to the electoral college, appeared to condone a riot in St. Louis by claiming that “rioting was the language of the unheard.” Maxine Waters, the chairwoman of the House Financial Services Committee, said of Trump Administration officials: “Let’s make sure we show up wherever we have to show up. And if you see anybody from that Cabinet in a restaurant, in a department store, at a gasoline station, you get out and you create a crowd. And you push back on them. And you tell them they’re not welcome anymore, anywhere.”
+
+                            </p>
+
+                            <p>It is important to note that the riots at the U.S Capitol did not occur in a vacuum or without context--violence had increasingly been accepted, if not supported, throughout the entirety of 2020 for the purpose of pushing left-wing political goals. The danger, however, with justifying such actions, is that political violence bears no allegiance to the left nor to the right. Either violence against the innocent is a legitimate means of obtaining political recourse--or it’s not. By accepting and repeatedly excusing the former stance, the Capitol riot became  inevitable--whether it was left or right or about an election or about something else. 
+
+                            </p>
+
+                            <p>So, no, the House should never have impeached and the Senate made the correct decision by declining to convict-not solely because of statues and constitutionality, but because the blame for what happened on January 6th cannot at all be attributed to one person. Rather, it is a product of the politics we as a society for too long have tolerated, encouraged, and condoned. And to absolve ourselves from this issue by scapegoating one man is to only ensure that the divisions tearing at the fabric of society deepen even further. 
+
+                            </p>
+
+
+                            <br>
+                            <br>
+                            <b><u>Works Cited</u></b>
+                            <p>
+                                <br>1. <a
+                                    href="https://www.refinery29.com/en-us/2021/01/10276446/madison-cawthorn-cnn-interview-pamela-brown-voter-fraud</a>
+                                <br>2. <a
+                                    href="https://www.heritage.org/election-integrity/commentary/the-heritage-foundations-election-fraud-database-tops-1300-cases
+                                </a>
+                                <br>3. <a
+                                    href="https://www.nytimes.com/2012/10/07/us/politics/as-more-vote-by-mail-faulty-ballots-could-impact-elections.html
+                                </a>
+                                <br>4. <a href="https://nypost.com/2021/02/08/maxine-waters-denies-encouraging-violence-against-republicans/
+                                </a>
+                                <br>5. <a
+                                    href="https://www.850wftl.com/aoc-the-whole-point-of-protesting-is-to-make-people-uncomfortable/
+                                </a>
+                                <br>6. <a
+                                    href="https://nypost.com/2021/02/07/rep-cori-bush-scolded-after-supporting-st-louis-jail-riot/
+                                </a>
+                                <br>7. <a href="https://www.realclearpolitics.com/video/2021/01/13/flashback_lead_impeachment_manager_jamie_raskin_attempted_to_object_to_electoral_vote_certification_for_trump_in_2017.html
+                                </a>
+                                
+
+
+                            </p>
+                            <br>
+                            <br>
+                            <p>*The author does not claim to represent all the opinions of all the members of the
+                                Postpartisan in this
+                                essay.</p>
+                        </div>
+                    </div>
+
+                    <!-- END main-content -->
+                    <div class="col-md-12 col-lg-4 sidebar">
+                        <div class="sidebar-box search-form-wrap">
+                            <form action="#" class="search-form">
+                                <div class="form-group">
+                                    <span class="icon fa fa-search"></span>
+                                    <input type="text" class="form-control" id="s"
+                                        placeholder="Type a keyword and hit enter">
+                                </div>
+                            </form>
+                        </div>
+                        <div class="sidebar-box">
+                            <div class="bio text-center">
+                                <img src="../../img/authors/Shri.jpg" alt="Image Placeholder" class="img-fluid mb-5">
+                                <div class="bio-body">
+                                    <h2>Shri Thakur</h2>
+                                    <p class="mb-4">Shri is a junior at Montgomery High School. He's interested in
+                                        politics, finance,
+                                        and healthy intellectual discourse. His beliefs strongly reflect his values of
+                                        personal
+                                        responsibility,
+                                        love of country, and freedom.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        </section>
+
+
+        <div class="site-footer">
+            <div class="container">
+                <div class="row mb-5">
+                    <div class="col-md-4">
+                        <h3 class="footer-heading mb-4">About Us</h3>
+                        <p>We are a group of young people passionate about using discourse, diversity of opinion, and
+                            free
+                            expression to make our societies better. Join us in the fight for progress over dogma.</p>
+                    </div>
+                    <div class="col-md-3 ml-auto">
+                        <ul class="list-unstyled float-left mr-5">
+                            <li><a href="index.html">Home</a></li>
+                            <li><a href="about.html">About</a></li>
+                            <li><a href="index.html">Resources</a></li>
+                            <li><a href="index.html">Podcast</a></li>
+                        </ul>
+                        <ul class="list-unstyled float-left">
+                            <li><a href="contact.html">Join Us</a></li>
+                            <li><a href="index.html">Issues</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-md-4">
+
+                        <div>
+                            <h3 class="footer-heading mb-4">Contact Us</h3>
+                            <p>
+                                <a href="https://www.instagram.com/post.partizan/"><span
+                                        class="icon-instagram p-2"></span></a>
+                                <a href="mailto:postpartisan.z@gmail.com"><span class="icon-envelope p-2"></span></a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="../../js/jquery-3.3.1.min.js"></script>
+    <script src="../../js/jquery-migrate-3.0.1.min.js"></script>
+    <script src="../../js/jquery-ui.js"></script>
+    <script src="../../js/popper.min.js"></script>
+    <script src="../../js/bootstrap.min.js"></script>
+    <script src="../../js/owl.carousel.min.js"></script>
+    <script src="../../js/jquery.stellar.min.js"></script>
+    <script src="../../js/jquery.countdown.min.js"></script>
+    <script src="../../js/jquery.magnific-popup.min.js"></script>
+    <script src="../../js/bootstrap-datepicker.min.js"></script>
+    <script src="../../js/aos.js"></script>
+    <script src="../../js/main.js"></script>
+</body>
+
+</html>
